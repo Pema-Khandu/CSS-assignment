@@ -1,0 +1,57 @@
+body{
+     background: linear-gradient(45deg, rgba(224, 9, 9, 0.4),rgba(4, 126, 48, 0.3));
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+}
+
+h2{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold  
+}
+hr{
+    border: 2px solid rgb(253, 237, 5);
+}
+
+nav{
+    background-color: rgb(154, 230, 12);
+    height: 40px;
+    width: 100%;
+    margin:-10px;
+    padding-top:25px;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.paragraph1{
+            color:rgb(250, 11, 63);
+            font-family: sans-serif;
+            font-weight: bolder;
+            text-align: center;
+            
+}
+
+.paragraph2{
+            color:greenyellow;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bolder;
+            text-align:justify;
+}
+
+.paragraph3{
+            font-style: italic;
+            font-weight: bold;
+            color: blue;
+}
